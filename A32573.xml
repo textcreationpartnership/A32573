@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation for the observation of the Lords day, and for renewing a former proclamation against vitious, debauched and profane persons</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32573</idno>
+            <idno type="STC">Wing C3497</idno>
+            <idno type="STC">ESTC R33278</idno>
+            <idno type="EEBO-CITATION">13118538</idno>
+            <idno type="OCLC">ocm 13118538</idno>
+            <idno type="VID">97784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97784)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1547:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation for the observation of the Lords day, and for renewing a former proclamation against vitious, debauched and profane persons</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[3] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Givien at the court at Whitehall, the two and twentieth day of August 1663, in the fifteenth year of His Majesties reign."</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:97784:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the King.</head>
+            <head type="sub">A PROCLAMATION For the Obſervation of the Lords day, and for renewing a former Proclamation againſt Vitious, Debauched and Profane perſons.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings moſt Excellent Majeſty conſidering the Pious Zeal of His Predeceſſors, and this whole Church, ſince the time of the happy Reformation, to the due obſervance of the Lords day, called <hi>Sunday,</hi> beyond any other of the Reformed Churches abroad, as being a day to be ſeparated from common uſes, and ſet apart and appropriated for the Service of God; His Majeſty therefore (whoſe charge under God, is to take care both of the Spiritual and Temporal State of His People) for prevention of prophanati<g ref="char:EOLhyphen"/>ons of that Solemn day, which he fears may elſe be a growing evil, hath thought fit, with the Advice of His Privy Council, to publiſh this enſuing Proclamation: And to the end all His loving Subjects may take notice of the good Laws and Statutes provided for the Cele<g ref="char:EOLhyphen"/>bration thereof, by frequenting Divine Service, doth hereby make known and Declare, That by the Statute made in the Firſt year of the Reign of the late Queen <hi>Elizabeth,</hi> Entituled, <hi>There ſhall be Uniformity of Prayer and Adminiſtration of Sacraments,</hi> All perſons, having no lawful or reaſonable excuſe to be abſent, are required diligently to reſort to their Pariſh-Church, Chappel, or uſual place where Common-Prayer and the Service of God is uſually Celebrated, upon every <hi>Sunday,</hi> and other days appointed to be kept as Holy-days, then and there to abide orderly and ſoberly during the time of Common-Prayer, Preaching, or other Service of God, upon pain (beſides Eccleſiaſtical Cenſures) of forfeiting for every offence Twelve
+<pb facs="tcp:97784:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 11 -->
+pence to the uſe of the Poor of the Pariſh; And for the eaſie and ſpeedy obtaining of the ſaid Penalties, by the Statute made in the Third year of the Reign of His Majeſties late Grandfather, King <hi>James,</hi> Entituled, <hi>An Act for the diſcovering and repreſſing of Popiſh Recuſants,</hi> It is (amongſt other things) Enacted, That for any the offences aforeſaid, any one Iuſtice of the Peace where the party offending ſhall dwell, upon proof by Confeſſion, or Oath of Witneſs, may give Warrant to the Churchwarden of that Pariſh, to Levy every ſuch Forfeiture of Twelve pence, by Diſtreſs and Sale of the Offenders Goods. And that by the Statute made in the Firſt year of the Reign of His Majeſties late Father King <hi>Charles</hi> (of bleſſed memory) Entituled, <hi>There ſhall be no Aſſemblies for unlawful Paſtimes on the Lords day,</hi> All meetings and Concourſe of people out of their own Pariſhes for any Sports and Paſtimes whatſoever, and all unlaw<g ref="char:EOLhyphen"/>ful Exerciſes within their own Pariſhes on the ſaid day, are Prohibited, upon ſeveral Pains and Penalties therein ſpecified. And that by the Statute made in the Third year of the Reign of the laid late King <hi>Charles,</hi> Entituled, <hi>A Reſtraint of divers Abuſes committed on the Lords day,</hi> All Carriers, Waggon-men, Car-men, Wayn-men, and Drovers, are Prohibited to Travel with their Horſes, Waggons, Carts, Wayns and Cattel, and Butchers to Kill or Sell any Victuals on the ſaid day, under ſeveral Penalties therein ſpecified, to be Levied and Imployed as is therein directed; Which ſeveral Branches of the ſeveral Statutes aforeſaid, His Maje<g ref="char:EOLhyphen"/>ſties Will and Pleaſure is, and doth hereby Publiſh and Declare, ſhall be forthwith duely and Religiouſ<g ref="char:EOLhyphen"/>ly put in execution. And all His Majeſties Subjects are to take notice, That by the Law, the reſort<g ref="char:EOLhyphen"/>ing to Divine Service, as is before mentioned, doth comprehend the intire day, and intire Service both Morning and Evening, and doth extend to all perſons of whatſoever Opinion or Profeſſion. And more<g ref="char:EOLhyphen"/>over, His Majeſty doth hereby ſtrictly Enjoyn and Command, That no perſon or perſons ſhall ſit, or con<g ref="char:EOLhyphen"/>tinue, or be permitted to ſit or continue Tipling or Drinking in any Inn, Tavern, Ale-houſe or Victual<g ref="char:EOLhyphen"/>ling-houſe, or ſit idle, or play openly in the Streets, Church, Church-yards, or elſewhere, during the time of Divine Service or Sermon, on the <hi>Sunday;</hi> And that no perſon or perſons ſhall on that day Proclaim, Keep, or reſort unto any Fair or Market, or expoſe any Wares or Merchandizes to Sale, or uſe or exer<g ref="char:EOLhyphen"/>ciſe any Work or Labour, of, or in his or their ordinary Trade or Calling (Except the Dreſſing or Sale of Victuals in any Inns, Victualling-houſes, or Cooks Shops, for ſuch as cannot be otherwiſe provided; and for ſale of Milk before or after Divine Service) upon pain of His Majeſties higheſt Diſpleaſure, and ſuch Pains, Penalties and Forfeitures as can or may be Inflicted upon the Offenders according to Law, and the neglect of His Majeſties Royal Authority and Command. And His Majeſty doth hereby Will, Require and Command all Mayors, Sheriffs, Iuſtices of the Peace, Bayliffs, Conſtables, and all other Officers and Miniſters whatſoever, in all Counties Priviledged, and other places whatſoever within this Realm, That they and every of them in their ſeveral Offices and Places, do from time to time provide and ſee to the due execution of this His Pleaſure and Royal Commandment, as they tender His Pleaſure, and will anſwer the contrary at their utmoſt perils. And whereas His Majeſty upon His happy Reſtaura<g ref="char:EOLhyphen"/>tion, did publiſh His Royal Proclamation of the Thirtieth of <hi>May, 1660.</hi> againſt Vitious, Debauched and Profane perſons; and by a ſubſequent Proclamation directed the ſame to be Read in all Churches and Chap<g ref="char:EOLhyphen"/>pels in <hi>England</hi> and <hi>Wales;</hi> which having been well received and reſented, and in ſome meaſure had, and, it is hoped, will yet have more of His Majeſties wiſhed effect amongſt His people; And His Majeſty conti<g ref="char:EOLhyphen"/>nuing
+<pb facs="tcp:97784:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 12 -->
+a fervent deſire to promote all means which tend to the ſuppreſſion of Vice, and advancement of Vertue, hath therefore thought fit, by and with the Advice of His Privy Council, That the ſaid Proclama<g ref="char:EOLhyphen"/>tion ſhall be again Read as formerly; and doth hereby ſtraitly Charge and Command, That each Miniſter in his reſpective Pariſh or Chappel within this Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Ber<g ref="char:EOLhyphen"/>wick</hi> upon <hi>Tweed,</hi> ſhall once every Moneth, for the ſpace of Six Moneths together next enſuing, Read in their reſpective Congregations the aforeſaid Proclamation, and incite and ſtir up their reſpective Audi<g ref="char:EOLhyphen"/>tors to obſerve the Duties therein enjoyned, and avoid the Vices therein forbidden. And His Majeſty doth alſo hereby ſtrictly Charge and Command, That every of the reſpective Miniſters aforeſaid, do care<g ref="char:EOLhyphen"/>fully and effectually obſerve His Will and Pleaſure herein, as they tender His Favour, and will avoid His Diſpleaſure. And laſtly, His Majeſty doth hereby renew His former Command, and again Require all Mayors, Sheriffs, and Iuſtices of the Peace to be very vigilant and ſtrict in diſcovering and puniſhing of ſuch perſons according to Law, as ſhall offend contrary to the ſaid Proclamation. And laſtly, His Majeſties Pleaſure is, and He doth hereby Charge and Command all Parſons, Vicars and Curates, That this preſent Proclamation be Read and Publiſhed together with the ſaid other Proclamation againſt Vitious, Debauched and Profane perſons, at the ſame time, in all Churches and Chappels.</p>
+            <closer>
+               <dateline>Given at the Court at <hi>Whitehall,</hi> 
+                  <date>the Two and twentieth day of <hi>August</hi> 1663. in the Fifteenth year of His Majeſties Reign.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings moſt Excellent MAJESTY, 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
